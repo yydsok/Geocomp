@@ -14,7 +14,7 @@ To address these challenges, this project proposes a comprehensive research fram
 This project aims to tackle key bottlenecks in current geolocation research through this framework, driving substantial progress in the field.
 
 <p align="center">
-  <img src="docs/heatmap_combined.png" alt="GeoComp project overview or core concept diagram" width="400"/>
+  <img src="docs/heatmap_combined.png" alt="GeoComp project overview or core concept diagram" width="800"/>
 </p>
 
 ## ✨ Main Features
